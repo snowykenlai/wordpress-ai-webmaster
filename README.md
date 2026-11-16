@@ -219,11 +219,10 @@
 ---
 
 
-<div style="background-color: rgba(239, 68, 68, 0.08); border: 1.5px solid rgba(239, 68, 68, 0.3); border-radius: 12px; padding: 24px; margin: 24px 0;">
-
 ### 🚨 安裝前提與必備環境（安裝前必讀）
 
-在開始安裝之前，請先確認你的網站與環境具備以下條件：
+> [!WARNING]
+> **少一項，功能就會打折。** 開始安裝之前，請先確認你的網站與環境具備以下條件。
 
 1. ☁️ **主機首選 Cloudways**  
    本 Skill 的四層快取自動消退、伺服器重啟、SSL 與深度診斷功能皆專為 **Cloudways** 打造（使用其他主機功能會有所受限）。  
@@ -252,8 +251,6 @@
     🚀 直接與站長聯絡
   </a>
   <p style="font-size: 13px; color: #888; margin-top: 10px;">或寄信到 server@toppindesign.com</p>
-</div>
-
 </div>
 
 
@@ -302,11 +299,10 @@ git clone https://github.com/snowykenlai/wordpress-ai-webmaster \
 ---
 
 
-<div style="background-color: rgba(128, 128, 128, 0.08); border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 10px; padding: 24px; margin: 24px 0;">
-
 ## 🛠️ 裝不起來？可選擇付費由我們為你服務裝好
 
-如果上面的安裝步驟看不懂，或者裝完之後沒有反應，**不用自己硬撐，交給專業團隊處理！**
+> [!NOTE]
+> 如果上面的安裝步驟看不懂，或者裝完之後沒有反應，**不用自己硬撐，交給專業團隊處理。**
 
 | 服務項目 | 內容說明 |
 |:---|:---|
@@ -321,8 +317,6 @@ git clone https://github.com/snowykenlai/wordpress-ai-webmaster \
 🌐 **服務說明**：https://toppindesign.com/wordpress-expert/
 
 > 💡 **安心說明**：這個 skill 本身**永久免費且完全開源**。上面是我們另外提供的付費到府安裝、專人教學，我們更提供**真人專家每月維護服務**。你自己裝得起來的話，就不用花這筆錢。若想省時省心或卡關，也歡迎直接跟我們聯絡。
-
-</div>
 
 
 ---
