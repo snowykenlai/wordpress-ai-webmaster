@@ -604,6 +604,17 @@ Because what it's imitating isn't a tool. It's a person who looks after your sit
 
 <br>
 
+> [!TIP]
+> 🚀 **Need professional WordPress maintenance? Get in touch — ToppinDesign.**
+>
+> 📮 **Live chat**: https://toppindesign.com/#section-contact
+
+<br>
+
+---
+
+<br>
+
 <div align="center">
 
 **Completely free** · Fork it, use it, sell it
