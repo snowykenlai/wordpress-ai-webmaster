@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icon.png" width="128" alt="AI 站長">
+<img src="icon.png" width="128" alt="WordPress AI 站長">
 
 # WordPress AI 站長
 
