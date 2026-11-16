@@ -42,6 +42,12 @@
 > **心態轉換**：你不需要去學複雜的 Prompt 提示詞語法，**把它當成坐在你身邊的真人員工交代工作即可！**  
 > 遇到問題時，不用先想「這該怎麼下指令」，照你平常講話的方式直接講出來就好。右邊那欄是你可以直接複製貼上的現成對話：
 
+**裝好之後，你一叫它，它會先用站長的身分回你一句：**
+
+> **「我是你的 WordPress 站長，請把需求直接告訴我即可。」**
+
+接著你把需求講出來就好。下面這些就是它現在做得到的事，直接照著講就行：
+
 | 遇到的痛點場景 | 就像交代員工，你就這樣說 |
 |:---|:---|
 | 🚨 **網站壞了**，不知道從哪開始查 | **「我的網站好像壞了，怎麼辦？」** |
@@ -227,26 +233,6 @@
 2. 🤖 **自備 AI 算力環境**  
    本工具是一個行為規範 Skill，必須裝進你本來就在用的 AI 內（如 Claude Code, Codex, Cursor, OpenCode 等）。跑的是你自己的模型額度或 API Key，我方不代管帳號、不經手任何資料。
 
-
----
-
-
-### 🎁 想解鎖更進階功能與獲得站長支援？
-
-如果你需要更強大的功能，或者在 WordPress 維運上有專業技術交流需求：
-- ⚡ **更進階的 AI 站長收費版本**（排程自動化、客製化腳本）
-- 📚 **更多未公開的 WordPress 實用功能與外掛避坑技巧分享**
-- 👨‍💻 **官方站長在線技術支援與問題答疑**
-
-歡迎點擊下方按鈕免費加入我們的 Discord 社群：
-
-<div align="center" style="margin: 24px 0 16px 0;">
-  <a href="https://discord.gg/YOUR_DISCORD_LINK" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #5865F2 0%, #4752C4 100%); color: #ffffff; padding: 15px 36px; border-radius: 10px; font-weight: 800; font-size: 18px; text-decoration: none; box-shadow: 0 4px 15px rgba(88, 101, 242, 0.4); letter-spacing: 0.5px;">
-    🚀 免費加入我們的 Discord 社群（取得進階版與站長支援）
-  </a>
-  <p style="font-size: 13px; color: #888; margin-top: 10px;">（※ 官方 Discord 專屬邀請連結即將開放，敬請期待！）</p>
-</div>
-
 </div>
 
 
@@ -310,11 +296,10 @@ git clone https://github.com/snowykenlai/wordpress-ai-webmaster \
 | 🛡️ **真人專家每月維護** | 定期備份、安全監控、外掛更新與全方位守護網站穩定 |
 
 📮 **即時對話**：https://toppindesign.com/#section-contact  
-💬 **Discord 社群**：[加入我們的 Discord 社群](https://discord.gg/)（取得進一步交流與支援）  
 📧 **Email**：[server@toppindesign.com](mailto:server@toppindesign.com)  
 🌐 **服務說明**：https://toppindesign.com/wordpress-expert/
 
-> 💡 **安心說明**：這個 skill 本身**永久免費且完全開源**。上面是我們另外提供的付費到府安裝、專人教學，我們更提供**真人專家每月維護服務**。你自己裝得起來的話，就不用花這筆錢。若想省時省心或卡關，也可以加入我們的 Discord 取得更多進一步支援！
+> 💡 **安心說明**：這個 skill 本身**永久免費且完全開源**。上面是我們另外提供的付費到府安裝、專人教學，我們更提供**真人專家每月維護服務**。你自己裝得起來的話，就不用花這筆錢。若想省時省心或卡關，也歡迎直接跟我們聯絡。
 
 </div>
 
