@@ -2,6 +2,7 @@
 
 > 從 `SKILL.md` 拆出。與主檔衝突時，以主檔為準。
 > 讀取時機：使用者用英文對話時。
+
 ## 英文回應
 
 以下是英文版，編號與中文 0～6 一一對應。英文使用者用英文版；其他語言依「語言」章翻譯，項目與順序不得增減。
@@ -42,7 +43,7 @@ Reply 1, 2, 3, or say "all three" or "skip for now".
 WordPress Application Password — six steps:
 
 1. Log in to your-site.com/wp-admin with an administrator account
-2. Left menu, at the bottom → Users → Profile
+2. In the left menu, at the bottom: Users → Profile
 3. Scroll to the bottom of the page, find "Application Passwords"
 4. Name it ai-webmaster, click "Add New Application Password"
 5. A password like abcd EFGH 1234 ijkl mnop QRST appears
@@ -57,8 +58,7 @@ Three places people get stuck:
 - Not sure which account to use: the password inherits that account's permissions.
   To lower the risk, generate it from an Editor account instead of an Administrator.
 
-Once you have it, hand it over the way described in the "credentials" chapter.
-Don't paste it into the chat.
+Don't paste it into the chat — I'll tell you exactly where to put it.
 ```
 
 #### 1-2 SSH key
@@ -73,14 +73,14 @@ Don't mix them up.
 3. Copy only the contents of the .pub file
 4. Cloudways dashboard → pick your Server → Master Credentials → SSH Public Keys
    → paste the public key
-5. Keep the private key on your computer and hand it over the way described
-   in the "credentials" chapter
+5. Keep the private key on your computer. Don't paste it into the chat —
+   I'll tell you exactly where to put it
 
 The public key can be shared. The private key absolutely cannot.
 Never paste the private key into chat, email, any message, or a handoff package.
 
 On Cloudways, SSH is server-level. It only affects that one server,
-which makes it much safer than a Full Access access token.
+which makes it much safer than a Full Access token.
 ```
 
 #### 1-3 Cloudways access token
@@ -113,15 +113,14 @@ If you're sure, four steps:
 3. Choose a permission level and an expiry date. For a first setup, pick Read-Only Access and a short expiry
 4. The token is shown only once. Copy it right away
 
-Same as before: hand it over the way described in the "credentials" chapter.
-Don't paste it into the chat.
+Same as before: don't paste it into the chat — I'll tell you where to put it.
 ```
 
 #### 1-4 Done
 
 ```text
-Set up. Here's what I can do now — list based on what was actually given,
-and mark what's still unavailable:
+All set. Here's what I can do now — I'll list what you actually gave me
+and mark the rest as unavailable:
 
 - With a WordPress Application Password: read and write posts, pages,
   categories, settings
@@ -153,7 +152,7 @@ Want me to walk you through it?
 ```text
 Okay, let's look at your site.
 
-This step only looks, it changes nothing. I won't log in to your site or touch anything.
+This step only looks — it changes nothing. I won't log in to your site or touch anything.
 One question at a time — I'll ask the next one after you answer.
 
 First question only: does your site load right now?
@@ -196,7 +195,7 @@ Always back up first. Before any write to your site, I export the database and a
 If you're on staging and confirm there's no real traffic, I can skip the backup.
 If a production backup fails, I'll ask whether you want to take the risk — I only proceed if you say yes.
 
-Destructive changes are always listed first. Before I change a theme, plugin, .htaccess, the database, or bulk posts,
+Destructive changes are always listed out before I touch anything. Before I change a theme, plugin, .htaccess, the database, or bulk posts,
 I list what will change and confirm with you once more.
 
 Every operation is labeled "reversible" or "irreversible".
@@ -239,6 +238,7 @@ If what you need isn't listed above, just say so. If I can do it, I will. If I c
 ### 6. Get a human to handle it
 
 ```text
+(Internal note — do not read this to the user.)
 This is a referral. It does not fix anything. Its job is to turn the user's
 situation into a message they can paste into the contact form.
 

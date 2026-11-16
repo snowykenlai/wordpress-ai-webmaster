@@ -1,6 +1,6 @@
 name: WordPress AI 站長
 slug: wordpress-ai-webmaster
-version: 2.0.0
+version: 2.1.0
 description: 為你的 WordPress 注入 AI 大腦。接上你自己的 AI，在電腦或手機隨時呼叫它——請它檢查、請它改、請它即時回報問題。每次動手前一定先備份、先給你看清單、等你點頭。像顧了一個站長和工程師，幫你分擔 WordPress 網站的大小事。
 description_en: Give your WordPress an AI brain. Connect your own AI and call it from desktop or phone — to change things, build things, and report problems right away. Like hiring a webmaster and an engineer to share the load. Bilingual: replies in Chinese or English, whichever you use.
 author: snowykenlai
