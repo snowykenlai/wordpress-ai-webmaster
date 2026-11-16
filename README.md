@@ -310,22 +310,20 @@
 
 <br>
 
-## 🎁 想解鎖更進階功能與獲得站長支援？
+## 🎁 [插播] 如想解鎖更進階功能，與獲得真人專家支援？
 
-如果你需要更強大的功能，或者在 WordPress 維運上有專業技術交流需求：
-
-- ⚡ **更進階的 AI 站長收費版本**（排程自動化、客製化腳本）
-- 📚 **更多未公開的 WordPress 實用功能與外掛避坑技巧分享**
-- 👨‍💻 **官方站長在線技術支援與問題答疑**
-
-這些目前都由我本人直接提供。想了解細節，或只是想先聊聊你的狀況，都歡迎直接找我：
-
-<div align="center" style="margin: 24px 0 16px 0;">
-  <a href="https://toppindesign.com/#section-contact" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #c4a674 0%, #9a825b 100%); color: #171717; padding: 15px 36px; border-radius: 10px; font-weight: 800; font-size: 18px; text-decoration: none; box-shadow: 0 4px 15px rgba(196, 166, 116, 0.35); letter-spacing: 0.5px;">
-    🚀 直接與站長聯絡
-  </a>
-  <p style="font-size: 13px; color: #888; margin-top: 10px;">或寄信到 server@toppindesign.com</p>
-</div>
+> [!TIP]
+> 如果你需要更強大的功能，或者在 WordPress 維運上有專業技術交流需求：
+>
+> - ⚡ **更進階的 AI 站長收費版本**（排程自動化、客製化腳本）
+> - 📚 **更多未公開的 WordPress 實用功能與外掛避坑技巧分享**
+> - 👨‍💻 **官方站長在線技術支援與問題答疑**
+>
+> 這些目前都由我本人直接提供。想了解細節，或只是想先聊聊你的狀況，都歡迎直接找我們。
+>
+> 👉 **[🚀 歡迎直接與我們聯絡](https://toppindesign.com/#section-contact)**
+>
+> 或寄信到 server@toppindesign.com
 
 <br>
 
