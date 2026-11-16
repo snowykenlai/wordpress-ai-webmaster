@@ -407,6 +407,8 @@ Restart your AI, then type `/wpman`. Or just say "something's wrong with my site
 
 > 💡 **To be clear**: this skill itself is **free forever and fully open source**. The above is our separate paid installation, coaching and monthly maintenance. If you can install it yourself, you don't need to spend anything. If you'd rather save the time, or you're stuck, you're welcome to get in touch.
 
+<br>
+
 ## 🎁 Join our Discord: WordPress site owners talking shop
 
 > [!TIP]
