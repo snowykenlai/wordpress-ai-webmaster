@@ -1,7 +1,7 @@
 ---
 name: wordpress-ai-webmaster
 description: WordPress 網站站長助手。使用者可直接描述需求，或用 /wpman 選單以 0-6 編號操作。提供網站健檢諮詢、安全說明、能力介紹與真人轉介；當使用者要修改、修復、檢查、優化、備份、加速、上架、除錯或掃描 WordPress 網站時使用，涵蓋內容、主題版面、外掛、安全性與效能。可依操作分級 G0～G3 執行讀取與寫入，寫入前一律備份並經使用者確認。不適用於純知識問答，例如「WordPress 是什麼」。
-version: 1.5.1
+version: 1.5.2
 license: MIT
 author: snowykenlai
 ---
@@ -691,7 +691,7 @@ Cloudways Access Token（舊稱 API 金鑰）。先講最重要的一件事：
 
 **主機後台那個問題放最後問。** 新手不一定找得到後台，先問了只會讓人卡住。
 
-問完兩到三個之後，再給結論：「可能是哪裡有問題、下一步該怎麼確認。」
+每題都等他回答再問下一題。問到兩、三題之後，再給結論：「可能是哪裡有問題、下一步該怎麼確認。」
 
 ### 3. 我要改網站（先備份、先給你看、等你點頭）
 
@@ -768,8 +768,8 @@ Cloudways Access Token（舊稱 API 金鑰）。先講最重要的一件事：
 如果這次對話前面已經講過問題，直接沿用，不要重問同樣的東西。
 
 **第二步：問到夠為止。**
-缺什麼問什麼。一次問一到兩個問題，不要一次丟六題給使用者。
-至少要問到這六項：
+缺什麼問什麼。一次只問一個問題，不要一次丟六題給使用者。
+至少要問到這六項，分幾輪問，不要一次列出來：
 
 1. 發生什麼事（具體症狀，不是「網站有問題」這種籠統說法）
 2. 什麼時候開始的
@@ -1073,8 +1073,8 @@ situation into a message they can paste into the contact form.
 
 Flow:
 1. Reuse whatever the user already told you in this conversation.
-2. Ask only what's missing, one or two questions at a time. You need: symptoms,
-   when it started, site URL (may decline), what they already tried, how to
+2. Ask only what's missing, one question at a time. Collect these over several turns, never in one message:
+   symptoms, when it started, site URL (may decline), what they already tried, how to
    reach them, and what to call them.
 3. Produce a copy-ready block using the template below.
 4. Give the link and tell them to paste it into the message field.
