@@ -4,9 +4,12 @@
 
 # WordPress AI 站長
 
-**給你的 AI 一套「WordPress 站長」的判斷力。**
+**為你的 WordPress 注入 AI 大腦。**
 
-它知道什麼該做、什麼要先問你、什麼絕對不能碰。
+連上你的 AI，在電腦或手機隨時呼叫它 ——
+請它改、請它造、請它即時回報查問題。
+
+像顧了一個站長和工程師，幫你分擔 WordPress 網站的大小事。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-c4a674.svg)](LICENSE)
 [![Skill](https://img.shields.io/badge/Agent%20Skill-SKILL.md-171717.svg)](#安裝)
