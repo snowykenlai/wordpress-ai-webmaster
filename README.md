@@ -396,6 +396,23 @@ git clone https://github.com/snowykenlai/wordpress-ai-webmaster \
 
 > 💡 **安心說明**：這個 skill 本身**永久免費且完全開源**。上面是我們另外提供的付費到府安裝、專人教學，我們更提供**真人專家每月維護服務**。你自己裝得起來的話，就不用花這筆錢。若想省時省心或卡關，也歡迎直接跟我們聯絡。
 
+## 💬 Discord 社群：wordpress站長們的大小事
+
+不想花錢找人代做，想自己學、自己動手的話，這裡有一群人陪你。
+
+**wordpress站長們的大小事** 是 WordPress 站長的交流社群。裡面會有：
+
+- 更多沒公開的 WordPress 技巧，還有一堆外掛地雷怎麼避
+- AI 站長的實戰用法，新功能會先在這裡試
+- 你卡住了直接問，有人會回
+
+<div align="center" style="margin: 24px 0 16px 0;">
+  <a href="https://discord.gg/pending-invite" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #5865F2 0%, #4752C4 100%); color: #ffffff; padding: 15px 36px; border-radius: 10px; font-weight: 800; font-size: 18px; text-decoration: none; box-shadow: 0 4px 15px rgba(88, 101, 242, 0.4); letter-spacing: 0.5px;">
+    🚀 加入 wordpress站長們的大小事
+  </a>
+  <p style="font-size: 13px; color: #888; margin-top: 10px;">（邀請連結整理中，開好會更新在這裡）</p>
+</div>
+
 <br>
 
 ---
