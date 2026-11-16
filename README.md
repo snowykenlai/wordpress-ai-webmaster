@@ -12,7 +12,7 @@
 像顧了一個站長和工程師，一起幫你分擔網站上的大小事。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-c4a674.svg)](LICENSE)
-[![免費](https://img.shields.io/badge/免費-開源-171717.svg)](#-完全免費)
+[![免費](https://img.shields.io/badge/免費-開源-171717.svg)](#-本-skill-完全免費)
 [![WordPress](https://img.shields.io/badge/WordPress-6.0%2B-21759b.svg)](#-前提)
 
 </div>
@@ -23,12 +23,14 @@
 
 <br>
 
-## 💰 完全免費
+## 💰 本 SKILL 完全免費
 
 不用註冊帳號，不用付費，也不用綁信用卡或留 email。
 
-你把這個 skill 裝進本來就在用的 AI，跑的是你自己的額度。我這邊沒有伺服器，
-也沒有任何用量上限，所以真的沒有理由收你錢。
+你把這個 skill 裝進本來就在用的 AI，跑的是你自己的額度。
+
+如需要，可光顧我們額外的 WordPress 支援服務，完全不影響本 skill 的使用。
+想要更多支援，或想跟一群 WordPress 站長一起圍爐討論，歡迎加入我們的 Discord。
 
 **永久免費，原始碼全部公開。**
 
