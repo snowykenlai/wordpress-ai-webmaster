@@ -536,7 +536,7 @@ BrowserOS neo 免費、開放原始碼，不需要帳號，也不需要 API key�
 **其他都是授權，不是安裝：**
 
 - WordPress 授權 → 在後台產生一組「應用程式密碼」
-- 主機授權 → 給一組 SSH 金鑰或 Cloudways API Key
+- 主機授權 → 給一組 SSH 金鑰，或 Cloudways 的 Access Token（可設唯讀或限定範圍）
 
 ### 🎛️ 怎麼控制它
 
