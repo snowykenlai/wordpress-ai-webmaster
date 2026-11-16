@@ -66,6 +66,12 @@
 
 <br>
 
+<div align="center">
+  <img src="social-preview.png" width="100%" alt="WordPress AI 站長">
+</div>
+
+<br>
+
 ## ✨ 它能幫你做什麼
 
 ### 🗣️ 怎麼用？把他當真人員工即可！
