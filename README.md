@@ -607,10 +607,10 @@ Claude Code、Codex、Cursor、OpenCode，以及任何支援 `SKILL.md` 格式�
 
 <br>
 
-> [!TIP]
+> [!WARNING]
 > 🚀 **需要 WordPress 專業維護服務嗎？歡迎直接與我們聯絡 —— ToppinDesign 奶油多多設計所**
 >
-> 📮 **即時對話**：https://toppindesign.com/#section-contact
+> 📮 **進入右下角即時對話 / 預約**：https://toppindesign.com/#section-contact
 
 <br>
 

@@ -604,10 +604,10 @@ Because what it's imitating isn't a tool. It's a person who looks after your sit
 
 <br>
 
-> [!TIP]
+> [!WARNING]
 > 🚀 **Need professional WordPress maintenance? Get in touch — ToppinDesign.**
 >
-> 📮 **Live chat**: https://toppindesign.com/#section-contact
+> 📮 **Live chat (bottom-right) / Book a time**: https://toppindesign.com/#section-contact
 
 <br>
 
