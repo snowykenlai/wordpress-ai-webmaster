@@ -619,7 +619,7 @@ Because what it's imitating isn't a tool. It's a person who looks after your sit
 
 <div align="center">
 
-**Completely free** · Fork it, use it · please don't resell it as-is
+**Completely free** · Fork it, use it
 
 If this skill helped you, a ⭐ is the biggest thank-you.
 
