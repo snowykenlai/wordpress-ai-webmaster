@@ -607,16 +607,6 @@ Claude Code、Codex、Cursor、OpenCode，以及任何支援 `SKILL.md` 格式�
 
 <br>
 
-## 🔗 更多 WordPress 技能
-
-👉 **https://github.com/snowykenlai**
-
-<br>
-
----
-
-<br>
-
 <div align="center">
 
 **完全免費** · 歡迎拿去改、拿去用、拿去賣

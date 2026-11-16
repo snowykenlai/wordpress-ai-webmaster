@@ -604,16 +604,6 @@ Because what it's imitating isn't a tool. It's a person who looks after your sit
 
 <br>
 
-## 🔗 More WordPress skills
-
-👉 **https://github.com/snowykenlai**
-
-<br>
-
----
-
-<br>
-
 <div align="center">
 
 **Completely free** · Fork it, use it, sell it
