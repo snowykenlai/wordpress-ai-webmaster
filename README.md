@@ -626,4 +626,6 @@ Claude Code、Codex、Cursor、OpenCode，以及任何支援 `SKILL.md` 格式�
 
 如果這個 skill 幫到你，給個 ⭐ 就是最大的支持。
 
+🚀 歡迎加入 Discord：[WordPress 站長們的大小事](#-限時加入我們的-discord-社群wordpress-站長們的大小事)
+
 </div>

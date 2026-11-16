@@ -623,6 +623,8 @@ Because what it's imitating isn't a tool. It's a person who looks after your sit
 
 If this skill helped you, a ⭐ is the biggest thank-you.
 
+🚀 Join our Discord: [WordPress site owners talking shop](#-join-our-discord-wordpress-site-owners-talking-shop)
+
 **Language:** English · [繁體中文](README.md)
 
 </div>
