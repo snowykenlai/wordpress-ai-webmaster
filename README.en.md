@@ -284,7 +284,7 @@ AI models differ enormously in reasoning ability. To protect your site, please u
 1. **Open source, as-is.** This project is a completely free open-source tool, provided **AS-IS**. The authors accept no legal or financial liability for any **white screen, corrupted code, data loss, SEO ranking change or business loss** arising from use of this skill, from an AI agent's misbehaviour, from a misunderstood instruction, or from model hallucination.
 2. **Nothing malicious, guaranteed.** The source code and behaviour rules are fully public. **We will never build in sabotage or a back door.**
 3. **Backups are your responsibility.** You are responsible for taking and keeping a complete backup (files and database) before any operation, so that you can restore to the original state 100% of the time if something goes wrong.
-4. **Human experts available.** If a site does break, or you lack the ability to diagnose it, or you'd rather a professional team took over, we do offer paid [installation, recovery and ongoing maintenance](#-cant-install-it-or-want-more-paid-help-is-available).
+4. **Human experts available.** If a site does break, or you lack the ability to diagnose it, or you'd rather a professional team took over, we do offer paid [installation, recovery and ongoing maintenance](#️-cant-install-it-or-want-more-paid-help-is-available).
 
 <br>
 
