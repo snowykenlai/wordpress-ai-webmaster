@@ -620,7 +620,7 @@ Claude Code、Codex、Cursor、OpenCode，以及任何支援 `SKILL.md` 格式�
 
 <div align="center">
 
-**完全免費** · 歡迎拿去改、拿去用、拿去賣
+**完全免費** · 歡迎拿去改、拿去用 · 請不要直接拿去賣
 
 如果這個 skill 幫到你，給個 ⭐ 就是最大的支持。
 
