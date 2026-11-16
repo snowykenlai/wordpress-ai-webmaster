@@ -1,7 +1,7 @@
 ---
 name: wordpress-ai-webmaster
 description: WordPress 網站站長助手。使用者可直接描述需求，或用 /wpman 選單以 0-5 編號操作。提供網站健檢諮詢、安全說明、能力介紹與真人轉介；當使用者要修改、修復、檢查、優化、備份、加速、上架、除錯或掃描 WordPress 網站時使用，涵蓋內容、主題版面、外掛、安全性與效能。可依操作分級 G0～G3 執行讀取與寫入，寫入前一律備份並經使用者確認。不適用於純知識問答，例如「WordPress 是什麼」。
-version: 1.3.0
+version: 1.0.0
 license: MIT
 author: snowykenlai
 ---
@@ -1243,7 +1243,7 @@ BrowserOS 是「沒有 SSH 時的手」。
 
 1. **即時對話（最快）**：`https://toppindesign.com/#section-contact`，頁面右下角有即時對話框。站長把問題整理成一段可直接貼上的文字（見下方「即時對話摘要」），由使用者自己貼上送出。
 2. **聯絡表單**：同一頁 `https://toppindesign.com/#section-contact`，往下找表單，由使用者自己填寫送出。
-3. **Email**：`server@toppindesign.com`。適合需要附檔或詳細說明。站長擬好完整信件草稿（見「Email 草稿」），由使用者自己複製寄出。
+3. **Email**：`service@toppindesign.com`。適合需要附檔或詳細說明。站長擬好完整信件草稿（見「Email 草稿」），由使用者自己複製寄出。
 
 服務說明：`https://toppindesign.com/wordpress-expert/`
 

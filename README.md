@@ -375,8 +375,10 @@ git clone https://github.com/snowykenlai/wordpress-ai-webmaster \
 | 🚑 **救援修復** | 網站壞了、被駭、白屏、後台進不去等緊急排查 |
 | 🛡️ **真人專家每月維護** | 定期備份、安全監控、外掛更新與全方位守護網站穩定 |
 
+**🚀 歡迎直接與我們聯絡 - ToppinDesign 奶油多多設計所**
+
 📮 **即時對話**：https://toppindesign.com/#section-contact  
-📧 **Email**：[server@toppindesign.com](mailto:server@toppindesign.com)  
+📧 **Email**：[service@toppindesign.com](mailto:service@toppindesign.com)  
 🌐 **服務說明**：https://toppindesign.com/wordpress-expert/
 
 > 💡 **安心說明**：這個 skill 本身**永久免費且完全開源**。上面是我們另外提供的付費到府安裝、專人教學，我們更提供**真人專家每月維護服務**。你自己裝得起來的話，就不用花這筆錢。若想省時省心或卡關，也歡迎直接跟我們聯絡。
