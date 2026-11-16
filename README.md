@@ -383,7 +383,7 @@ git clone https://github.com/snowykenlai/wordpress-ai-webmaster \
 
 > 💡 **安心說明**：這個 skill 本身**永久免費且完全開源**。上面是我們另外提供的付費到府安裝、專人教學，我們更提供**真人專家每月維護服務**。你自己裝得起來的話，就不用花這筆錢。若想省時省心或卡關，也歡迎直接跟我們聯絡。
 
-## 💬 Discord 社群：wordpress站長們的大小事
+## 🎁 限時加入我們的 Discord 社群：WordPress站長們的大小事
 
 不想花錢找人代做，想自己學、自己動手的話，這裡有一群人陪你。
 
