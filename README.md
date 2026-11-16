@@ -67,7 +67,7 @@
 <br>
 
 <div align="center">
-  <img src="social-preview.png" width="100%" alt="WordPress AI 站長">
+  <img src="social-preview.png" width="100%" alt="WordPress AI 站長" style="border-radius: 18px;">
 </div>
 
 <br>
