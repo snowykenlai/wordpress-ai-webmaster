@@ -1,0 +1,21 @@
+﻿# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# 本機產物
+output/
+*.log
+node_modules/
+
+# 編輯器
+.vscode/
+.idea/
+
+# 使用者的私人設定（永遠不進 repo）
+.env
+.env.*
+*.local.json
+.ai-webmaster/
