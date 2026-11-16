@@ -2,7 +2,7 @@
 
 <img src="icon.png" width="128" alt="AI 站長">
 
-# AI 站長
+# WordPress AI 站長
 
 **給你的 AI 一套「WordPress 站長」的判斷力。**
 
@@ -53,7 +53,7 @@
 把下面這句丟給你的 AI Agent，它會自己找到 skills 目錄並裝好：
 
 ```
-幫我安裝這個 skill：https://github.com/snowykenlai/ai-webmaster
+幫我安裝這個 skill：https://github.com/snowykenlai/wordpress-ai-webmaster
 ```
 
 各 Agent 都適用。裝完重啟一次 Agent 即可。
@@ -61,7 +61,7 @@
 ### 方法二：一行指令（通用）
 
 ```bash
-npx skills add https://github.com/snowykenlai/ai-webmaster --global
+npx skills add https://github.com/snowykenlai/wordpress-ai-webmaster --global
 ```
 
 這支 CLI 會自動偵測你裝了哪些 Agent，放進正確的位置。
@@ -69,9 +69,9 @@ npx skills add https://github.com/snowykenlai/ai-webmaster --global
 ### 方法三：手動 clone
 
 ```bash
-git clone https://github.com/snowykenlai/ai-webmaster \
-  ~/.claude/skills/ai-webmaster        # Claude Code
-# git clone ... ~/.codex/skills/ai-webmaster      # Codex
+git clone https://github.com/snowykenlai/wordpress-ai-webmaster \
+  ~/.claude/skills/wordpress-ai-webmaster        # Claude Code
+# git clone ... ~/.codex/skills/wordpress-ai-webmaster      # Codex
 ```
 
 放好之後重啟 Agent。

@@ -1,5 +1,5 @@
-name: ai-webmaster
-slug: ai-webmaster
+name: WordPress AI 站長
+slug: wordpress-ai-webmaster
 version: 1.0.0
 description: 給 AI 一套「WordPress 站長」的判斷力與安全邊界。1000+ 行行為規範，含操作分級、七層安全網、解鎖機制、轉介服務。不是外掛，不是 SaaS，是一個 SKILL.md。
 author: snowykenlai
@@ -22,6 +22,6 @@ triggers:
   - 網站健檢
   - 有沒有被駭
   - 備份網站
-homepage: https://github.com/snowykenlai/ai-webmaster
-repository: https://github.com/snowykenlai/ai-webmaster
+homepage: https://github.com/snowykenlai/wordpress-ai-webmaster
+repository: https://github.com/snowykenlai/wordpress-ai-webmaster
 icon: icon.png

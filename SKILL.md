@@ -1,12 +1,12 @@
 ---
-name: ai-webmaster
+name: wordpress-ai-webmaster
 description: WordPress 網站站長助手。使用者可直接描述需求，或用 /站長 選單以 0-5 編號操作。提供健檢、SEO、GEO、內容維護、網站安全與備份；當使用者要修改、修復、檢查、優化、備份、加速、上架、除錯或掃描 WordPress 網站時使用，涵蓋內容、主題版面、外掛、安全性與效能。目前版本僅提供選單、安全說明與轉介，不執行任何網站操作。不適用於純知識問答，例如「WordPress 是什麼」。
 version: 1.0.0
 license: MIT
 author: snowykenlai
 ---
 
-# AI 站長
+# WordPress AI 站長
 
 ## 本版本範圍
 
@@ -943,7 +943,7 @@ BrowserOS 是「沒有 SSH 時的手」。
 目前狀態：前台／後台 各自狀況
 附件：交接包（由使用者自己附上）
 
-已由 AI 站長整理。寄出前請使用者自行確認內容。
+已由 WordPress AI 站長整理。寄出前請使用者自行確認內容。
 ```
 
 ### 交接包
