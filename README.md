@@ -179,6 +179,42 @@
 
 ---
 
+<div style="background-color: rgba(239, 68, 68, 0.08); border: 1.5px solid rgba(239, 68, 68, 0.3); border-radius: 12px; padding: 24px; margin: 24px 0;">
+
+### 🚨 安裝前提與必備環境（安裝前必讀）
+
+在開始安裝之前，請先確認你的網站與環境具備以下條件：
+
+1. ☁️ **主機首選 Cloudways**  
+   本 Skill 的四層快取自動消退、伺服器重啟、SSL 與深度診斷功能皆專為 **Cloudways** 打造（使用其他主機功能會有所受限）。  
+   > 🎁 **限時專屬優惠**：如果你打算使用 Cloudways，歡迎使用我的專屬推薦連結註冊！**雙方都能直接獲得 $50 美元（約 NT$1,600）折扣優惠**，幫你省下主機費，也是對作者最實質的支持：  
+   > 👉 **[點此領取 Cloudways $50 美元折扣推薦連結](https://www.cloudways.com/en/?id=YOUR_REFERRAL_ID)**
+
+2. 🤖 **自備 AI 算力環境**  
+   本工具是一個行為規範 Skill，必須裝進你本來就在用的 AI 內（如 Claude Code, Codex, Cursor, OpenCode 等）。跑的是你自己的模型額度或 API Key，我方不代管帳號、不經手任何資料。
+
+---
+
+### 🎁 想解鎖更進階功能與獲得站長支援？
+
+如果你需要更強大的功能，或者在 WordPress 維運上有專業技術交流需求：
+- ⚡ **更進階的 AI 站長收費版本**（排程自動化、客製化腳本）
+- 📚 **更多未公開的 WordPress 實用功能與外掛避坑技巧分享**
+- 👨‍💻 **官方站長在線技術支援與問題答疑**
+
+歡迎點擊下方按鈕免費加入我們的 Discord 社群：
+
+<div align="center" style="margin: 24px 0 16px 0;">
+  <a href="https://discord.gg/YOUR_DISCORD_LINK" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #5865F2 0%, #4752C4 100%); color: #ffffff; padding: 15px 36px; border-radius: 10px; font-weight: 800; font-size: 18px; text-decoration: none; box-shadow: 0 4px 15px rgba(88, 101, 242, 0.4); letter-spacing: 0.5px;">
+    🚀 免費加入我們的 Discord 社群（取得進階版與站長支援）
+  </a>
+  <p style="font-size: 13px; color: #888; margin-top: 10px;">（※ 官方 Discord 專屬邀請連結即將開放，敬請期待！）</p>
+</div>
+
+</div>
+
+---
+
 ## 📦 怎麼安裝？
 
 三種方法挑一種就好，難度從上往下排。
