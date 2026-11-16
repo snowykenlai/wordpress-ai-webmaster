@@ -11,9 +11,6 @@
 
 像顧了一個站長和工程師，幫你分擔 WordPress 網站的大小事。
 
-*中文 / English both supported — 說中文回中文，說英文回英文。*
-*Bilingual: it replies in whichever language you use.*
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-c4a674.svg)](LICENSE)
 [![免費](https://img.shields.io/badge/免費-開源-171717.svg)](#完全免費)
 [![WordPress](https://img.shields.io/badge/WordPress-6.0%2B-21759b.svg)](#前提)
