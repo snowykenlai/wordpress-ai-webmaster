@@ -11,6 +11,9 @@
 
 像顧了一個站長和工程師，幫你分擔 WordPress 網站的大小事。
 
+*中文 / English both supported — 說中文回中文，說英文回英文。*
+*Bilingual: it replies in whichever language you use.*
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-c4a674.svg)](LICENSE)
 [![免費](https://img.shields.io/badge/免費-開源-171717.svg)](#這是什麼)
 [![WordPress](https://img.shields.io/badge/WordPress-6.0%2B-21759b.svg)](#前提)
@@ -97,7 +100,7 @@ git clone https://github.com/snowykenlai/wordpress-ai-webmaster \
 
 ## 裝完之後長怎樣
 
-### 打 `/站長`
+### 打 `/wpman`
 
 ```
 請選擇站長功能：
@@ -109,7 +112,20 @@ git clone https://github.com/snowykenlai/wordpress-ai-webmaster \
 4. 內容維護
 5. 使用前須知與安全說明
 
-請輸入 0～5，或直接輸入「/站長 編號」。
+請輸入 0～5，或直接輸入「/wpman 編號」。
+
+────────────────────
+
+Choose a wpman action:
+
+0. Exit
+1. Site health check (read-only)
+2. Basic SEO
+3. Basic GEO
+4. Content maintenance
+5. Before you start / safety notes
+
+Type 0-5, or type "/wpman <number>".
 ```
 
 ### 你也可以直接講人話
@@ -258,7 +274,7 @@ git clone https://github.com/snowykenlai/wordpress-ai-webmaster \
 ### 第一次
 
 1. 裝好 skill，重啟 Agent
-2. 打 `/站長`，或直接描述你的問題
+2. 打 `/wpman`，或直接描述你的問題
 3. 站長會先確認它現在有哪些工具，再回答「做不做得到」
 
 ### 日常
@@ -270,6 +286,15 @@ git clone https://github.com/snowykenlai/wordpress-ai-webmaster \
 「幫我把那三篇文章的標題改短一點」
 「首頁載入很慢，看一下」
 「我想加一個商品分類，怎麼做？」
+
+英文也通：
+
+```
+"Is my site okay this week?"
+"Change the titles of those three posts to something shorter"
+"The homepage loads slowly — take a look"
+"I want to add a product category, how?"
+```
 ```
 
 ### 想控制它的手腳
@@ -308,6 +333,9 @@ Claude Code、Codex、Cursor、OpenCode，以及任何支援 `SKILL.md` 格式�
 
 **Q：為什麼叫「站長」？**
 因為它要模擬的不是「工具」，是「一個幫你顧網站的人」。
+
+**Q：只支援中文嗎？**
+不是。說中文回中文，說英文回英文。指令 `\`/wpman\`` 是中英通用的。
 
 ---
 

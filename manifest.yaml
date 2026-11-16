@@ -1,7 +1,8 @@
 name: WordPress AI 站長
 slug: wordpress-ai-webmaster
 version: 1.0.0
-description: 給 AI 一套「WordPress 站長」的判斷力與安全邊界。1000+ 行行為規範，含操作分級、七層安全網、解鎖機制、轉介服務。不是外掛，不是 SaaS，是一個 SKILL.md。
+description: 為你的 WordPress 注入 AI 大腦。連上你的 AI，在電腦或手機隨時呼叫它——請它改、請它造、請它即時回報查問題。像顧了一個站長和工程師，幫你分擔 WordPress 網站的大小事。中英雙語，說中文回中文，說英文回英文。
+description_en: Give your WordPress an AI brain. Connect your own AI and call it from desktop or phone — to change things, build things, and report problems right away. Like hiring a webmaster and an engineer to share the load. Bilingual: replies in Chinese or English, whichever you use.
 author: snowykenlai
 license: MIT
 category: 開發工具
@@ -13,8 +14,10 @@ tags:
   - geo
   - 安全
   - agent-skill
+  - bilingual
 triggers:
   - 站長
+  - wpman
   - 網站壞了
   - 網站變慢
   - 幫我改網站
@@ -22,6 +25,10 @@ triggers:
   - 網站健檢
   - 有沒有被駭
   - 備份網站
+  - my site is broken
+  - my site is slow
+  - fix my wordpress
+  - wordpress maintenance
 homepage: https://github.com/snowykenlai/wordpress-ai-webmaster
 repository: https://github.com/snowykenlai/wordpress-ai-webmaster
 icon: icon.png
