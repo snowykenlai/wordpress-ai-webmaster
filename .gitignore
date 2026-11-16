@@ -19,3 +19,6 @@ node_modules/
 .env.*
 *.local.json
 .ai-webmaster/
+
+# 本機備份檔（不進 repo）
+*.bak-*
