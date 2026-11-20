@@ -525,6 +525,35 @@ It **backs up before acting**, and rolls back on failure.
 If even the rollback fails, it stops immediately and leaves you manual restore steps —
 the backup ID and the restore order — so you can get back to the original state.
 
+#### 🔌 If you connect through MCP
+
+WordPress 6.9 added an official way for an AI to call site functions directly.
+Most people can ignore it. If you're already using it, each of these has two answers — pick one:
+
+**1. How much access did you hand over?**
+
+- **A. It's connected with an administrator account** → that's the whole admin area; worth changing
+- **B. It's connected with a low-privilege account** → the scope is limited; you're fine
+
+**2. Have you looked at what it can do right now?**
+
+- **A. Yes** → you can now decide which ones to switch off
+- **B. Not yet** → ask the webmaster to list it once
+
+**3. Is there a way to back up before anything changes?**
+
+- **A. Yes** → failures can be rolled back; writes are allowed
+- **B. No** → then it only looks; it doesn't change anything
+
+Three practical reminders:
+
+- If the list includes delete or import, confirm whether it's switched on
+- On a WooCommerce site, products and orders are changeable by default
+- Seeing it in the list doesn't mean it will work — but don't relax just because it looks read-only either
+
+> **This skill doesn't require you to install anything.**
+> It supports the route; browser, SSH, and Cloudways work exactly as before.
+
 ### 🧩 What else needs installing
 
 **One thing: BrowserOS neo.**
